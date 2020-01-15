@@ -18,4 +18,4 @@ update version of included tools
 add other utility tools (typically used in shell scripts)
 
 ## License
-Apache License, Version 2.0. See the LICENSE file for the full license. The NOTICE file contains a reference to the Dockerfile I used as a starting point :)
+Apache License, Version 2.0. See the LICENSE file for the full license.
