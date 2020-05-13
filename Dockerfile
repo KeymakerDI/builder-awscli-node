@@ -3,7 +3,8 @@ FROM node:13.6.0
 RUN apt-get update && \
     apt-get install -y \
         python-dev \
-        yarn        
+        yarn \
+        jq
 # Other installs
 RUN curl -O https://bootstrap.pypa.io/get-pip.py && \
     python get-pip.py && \
